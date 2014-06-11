@@ -1,0 +1,6 @@
+package database;
+
+message Database {
+  required string key = "key";
+  required string value = "value";
+}
